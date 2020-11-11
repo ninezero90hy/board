@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ninezero90hy/board.svg?branch=master)](https://travis-ci.com/ninezero90hy/board)
+
 # 앱 커뮤니티 게시판
 
 
