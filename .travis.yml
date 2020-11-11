@@ -4,6 +4,3 @@ jdk: oraclejdk8
 install: true
 script:
   - ./mvnw clean build test
-  - if [ -e ./mvnw ]; then ./mvnw jacocoTestReport;else ./mvnw jacocoTestReport;fi
-after_success :
-  - bash <(curl -s https://codecov.io/bash)
