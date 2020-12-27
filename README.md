@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/ninezero90hy/board.svg?branch=main)](https://travis-ci.com/ninezero90hy/board)
 
-# 앱 커뮤니티 게시판
+# 게시판 🧑🏻‍💻 토이 프로젝트 💫
 
 
 
